@@ -1,0 +1,355 @@
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-UltraLight.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-UltraLight.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-Thin.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-Thin.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-Light.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-Medium.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-Medium.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-Black.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-Black.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-DemiBold.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-DemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-Bold.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-ExtraBold.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "IranYekan";
+  src:
+    url("/fonts/iran_yekan_woff/IRANYekanX-ExtraBold.woff") format("woff"),
+    url("/fonts/iran_yekan_woff2/IRANYekanX-ExtraBold.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/********* NUMERICS ************/
+
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-UltraLight.woff")
+      format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-UltraLight.woff2")
+      format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-Thin.woff") format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-Thin.woff2")
+      format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-Light.woff") format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-Light.woff2")
+      format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-Medium.woff") format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-Medium.woff2")
+      format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-Black.woff") format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-Black.woff2")
+      format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-DemiBold.woff")
+      format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-DemiBold.woff2")
+      format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-Bold.woff") format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-Bold.woff2")
+      format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-ExtraBold.woff")
+      format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-ExtraBold.woff2")
+      format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "IranYekanNum";
+  src:
+    url("/fonts/iran_yekan_num_woff/IRANYekanXFaNum-ExtraBold.woff")
+      format("woff"),
+    url("/fonts/iran_yekan_num_woff2/IRANYekanXFaNum-ExtraBold.woff2")
+      format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  font-family: IranYekan, IranYekanNum, Inter, system-ui, Avenir, Helvetica,
+    Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #f5f7fa !important;
+  font-family: IranYekan, IranYekanNum !important;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+/** CHECKBOX for simulator */
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.loading-indicator {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.loading-spinner {
+  border: 3px solid #7a57d1;
+  border-top-color: white;
+  border-radius: 50%;
+  min-width: 40px;
+  min-height: 40px;
+  animation: spin 1s ease-in-out infinite;
+}
+
+::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: "none";
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #b9b9b9;
+  cursor: grab;
+}
+
+::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background-color: #b9b9b9;
+  cursor: grab;
+}
+
+.empty-drop-box {
+  margin-left: 5px;
+  padding: 0 75px;
+  display: inline-block;
+  height: 19px;
+  border: 1px solid #0370a7;
+  border-radius: 2.2px;
+  background: #fff;
+  font-weight: 700;
+}
+
+.empty-drop-box.chosen {
+  transition: background-color 1s;
+  background-color: rgba(181, 234, 255, 0.5) !important;
+  color: rgba(181, 234, 255, 0.5);
+}
+
+.drag-item {
+  display: inline-block;
+  cursor: move;
+  font-size: 14px;
+  padding: 0 14px;
+  background-color: #dde3ee;
+  box-shadow: 0 0.0714em 0.143em rgba(0, 0, 0, 0.25);
+  border-radius: 2.2px;
+}
+
+.simulator table th {
+  border: 1px solid #666;
+  padding: 6px;
+  background: #c3d9ff;
+  text-align: center;
+}
+
+.simulator table td:first-child {
+  padding-left: 15px;
+}
+
+.simulator table td:first-child b {
+  margin-right: 15px;
+}
+
+.simulator table td {
+  border: 1px solid #666;
+  padding: 6px 20px;
+  background: transparent;
+}
+
+.simulator table td:not(:first-child) {
+  cursor: pointer;
+}
+
+.simulator table tr.active td {
+  transition: background-color 1s;
+  background-color: rgba(181, 234, 255, 0.5);
+}
+
+.simulator table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+}
+
+.note-completion-input {
+  width: 100%;
+  text-align: center;
+  font-weight: 700;
+  border: 1px solid #0370a7;
+  border-radius: 2.3px;
+  height: 19px;
+}
+
+.note-completion-input:focus {
+  transition: background-color 1s;
+  background-color: rgba(181, 234, 255, 0.5);
+}
+
+.ql-container.ql-snow {
+  min-height: 400px !important;
+}
+
+.ql-editor {
+  min-height: 400px !important;
+}
+
+.writing-question p {
+  font-size: 14px;
+  margin-bottom: 0.25rem;
+}
